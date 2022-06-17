@@ -1,0 +1,34 @@
+.mainDiv h1{
+    color: #ccc;
+    font-size: 2.5rem;
+}
+.mainDiv h1{
+    border-bottom: 1px solid #ccc;
+}
+.mainDiv .child{
+    background-color: #EEE;
+}
+.mainDiv h5{
+    font-size: 18px;
+}
+.mainDiv .item{
+    margin: 0px;
+    margin-top: 20px;
+    padding: 25px;
+    background-image: linear-gradient(#EEE,#FFF);
+    background-image: -moz-linear-gradient(#EEE,#FFF);
+    background-image: -o-linear-gradient(#EEE,#FFF);
+    background-image: -webkit-linear-gradient(#EEE,#FFF);
+}
+.mainDiv .item .col-4 ,.mainDiv .item .col-8{
+    padding: 15px 0px;
+}
+.copyRight{
+    border-top: 1px solid #ccc;
+    color: #ccc;
+    font-size: 15px;
+}
+
+.mainDiv .alert{
+    margin-top: 10px;
+}
